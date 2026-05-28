@@ -1,0 +1,51 @@
+restaurant_name,cuisine_type,risk_tier,churn_risk_score,orders_this_week,orders_last_week,order_volume_trend_pct,direct_order_rate,logins_per_week,features_used,total_features,feature_adoption_rate,marketing_campaigns_30d,months_on_platform
+Taqueria Azteca,Mexican,Churning,92.3,47,137,-65.7,0.07,1,3,8,0.375,0,2
+Sakura Sushi,Japanese,Churning,92.2,60,131,-54.2,0.17,0,1,8,0.125,0,3
+Harbor Fish & Chips,Seafood,Churning,91.0,45,107,-57.9,0.12,2,1,8,0.125,1,6
+Morning Glory,Breakfast,Churning,90.0,26,93,-72.0,0.18,2,1,8,0.125,1,7
+Cocina Lola,Mexican,Churning,89.1,57,124,-54.0,0.12,1,2,8,0.25,1,10
+Casa del Sol,Mexican,Churning,88.6,96,173,-44.5,0.11,0,2,8,0.25,0,6
+Trattoria Roma,Italian,Churning,84.3,119,164,-27.4,0.1,0,1,8,0.125,0,4
+Crossroads BBQ,American,Churning,83.3,84,141,-40.4,0.25,0,1,8,0.125,1,11
+Neighborhood Eats,American,Churning,80.2,77,157,-51.0,0.32,3,2,8,0.25,0,7
+Corner Bistro,Bistro,Churning,79.4,105,159,-34.0,0.13,1,3,8,0.375,1,10
+Founders Kitchen,American,Churning,78.1,152,200,-24.0,0.22,0,1,8,0.125,1,12
+Big Sky Grill,American,Churning,74.3,123,182,-32.4,0.29,2,2,8,0.25,1,12
+Bella Pasta Co.,Italian,Churning,71.9,110,179,-38.5,0.32,2,4,8,0.5,1,17
+Crab Shack,Seafood,At-Risk,69.7,187,244,-23.4,0.31,2,3,8,0.375,0,12
+Napoli Kitchen,Italian,At-Risk,66.7,217,293,-25.9,0.37,3,2,8,0.25,2,17
+Pho Saigon,Vietnamese,At-Risk,65.6,154,199,-22.6,0.34,4,3,8,0.375,0,9
+Zen Ramen,Japanese,At-Risk,62.2,233,282,-17.4,0.4,5,2,8,0.25,0,4
+The Oyster Bar,Seafood,At-Risk,61.0,214,254,-15.7,0.43,3,2,8,0.25,2,10
+The Patty Lab,Burgers,At-Risk,60.8,203,257,-21.0,0.44,3,3,8,0.375,2,15
+Smash Bros. Burgers,Burgers,At-Risk,60.6,176,213,-17.4,0.45,5,2,8,0.25,0,6
+Park Ave Kitchen,American,At-Risk,59.6,224,287,-22.0,0.49,3,3,8,0.375,2,15
+Midtown Cantina,Mexican,At-Risk,59.3,238,262,-9.2,0.34,4,3,8,0.375,1,15
+Napkin Pizza,Pizza,At-Risk,59.3,223,269,-17.1,0.33,5,4,8,0.5,1,4
+Olive & Vine,Mediterranean,At-Risk,58.7,210,247,-15.0,0.49,4,2,8,0.25,1,16
+Woodfire Pizza,Pizza,At-Risk,58.3,210,235,-10.6,0.49,4,2,8,0.25,0,17
+Seoul Bowl,Korean,At-Risk,57.5,265,297,-10.8,0.43,5,2,8,0.25,1,15
+Falafel Palace,Mediterranean,At-Risk,57.4,195,217,-10.1,0.41,4,3,8,0.375,1,5
+Liberty Diner,American,At-Risk,57.3,232,279,-16.8,0.48,3,4,8,0.5,1,17
+Grain & Go,Fast Casual,At-Risk,56.8,186,212,-12.3,0.45,2,4,8,0.5,2,15
+The Local Table,Bistro,At-Risk,56.7,190,223,-14.8,0.45,4,3,8,0.375,2,10
+The Smokehouse,American,Thriving,33.9,302,285,6.0,0.64,6,5,8,0.625,4,25
+Sunrise Cafe,Breakfast,Thriving,31.5,353,358,-1.4,0.64,7,5,8,0.625,7,9
+Villa Rosso,Italian,Thriving,30.6,278,298,-6.7,0.73,7,5,8,0.625,7,22
+The Crust,Pizza,Thriving,30.5,406,420,-3.3,0.74,6,5,8,0.625,7,9
+Fresh Bowl Co.,Fast Casual,Thriving,29.9,288,305,-5.6,0.75,9,6,8,0.75,3,20
+Spice Route,Indian,Thriving,25.5,363,373,-2.7,0.67,10,5,8,0.625,8,19
+The Wrap Station,Fast Casual,Thriving,24.9,396,363,9.1,0.77,6,7,8,0.875,4,32
+Dim Sum Palace,Chinese,Thriving,24.5,297,308,-3.6,0.62,12,5,8,0.625,8,28
+Golden Dragon,Chinese,Thriving,24.1,389,356,9.3,0.7,8,7,8,0.875,4,28
+The Egg Collective,Breakfast,Thriving,23.4,445,417,6.7,0.76,7,7,8,0.875,5,16
+Señor Taco,Mexican,Thriving,23.3,361,376,-4.0,0.65,11,6,8,0.75,8,25
+Urban Greens,Fast Casual,Thriving,22.1,271,291,-6.9,0.77,10,6,8,0.75,8,18
+Slice Republic,Pizza,Thriving,20.3,446,408,9.3,0.71,14,5,8,0.625,3,35
+Main St. Burger,American,Thriving,19.6,316,319,-0.9,0.73,11,6,8,0.75,8,17
+Bangkok Bites,Thai,Thriving,18.4,450,415,8.4,0.68,14,6,8,0.75,4,27
+Osteria Fiorella,Italian,Thriving,17.9,386,397,-2.8,0.61,14,7,8,0.875,8,16
+Daily Harvest Cafe,Fast Casual,Thriving,17.0,375,379,-1.1,0.77,12,8,8,1.0,5,33
+Stack House,Burgers,Thriving,16.6,406,418,-2.9,0.8,13,6,8,0.75,7,31
+Stack'd,Fast Casual,Thriving,14.6,444,419,6.0,0.73,14,5,8,0.625,8,17
+The Mezze Table,Mediterranean,Thriving,13.5,309,290,6.6,0.68,14,7,8,0.875,7,10
